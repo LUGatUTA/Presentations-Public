@@ -1,0 +1,7 @@
+img[alt=fitme] { width: 95%; }
+body {
+    background-color: lightblue;
+    background-image: url("images/lug_lightblue_background.png");
+    background-position: center center;
+    background-attachment: fixed;
+} 
